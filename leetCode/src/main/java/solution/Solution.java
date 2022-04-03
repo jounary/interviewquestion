@@ -1,10 +1,11 @@
-import java.time.chrono.IsoEra;
+package solution;
+
 import java.util.ArrayList;
 import java.util.Deque;
 import java.util.LinkedList;
 import java.util.List;
 
-class Solution {
+public class Solution {
     private static  Solution instance = new Solution();
     private Solution(){}
     private int i = 0;
